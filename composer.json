@@ -1,0 +1,18 @@
+{
+    "name": "abrahamlundy/laracalc",
+    "description": "Simple Package Test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abrahamlundy\\Laracalc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abraham Lundy",
+            "email": "abraham.lundy.batasche@gmail.com"
+        }
+    ],
+    "require": {}
+}

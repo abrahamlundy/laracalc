@@ -8,11 +8,14 @@
             "Abrahamlundy\\Laracalc\\": "src/"
         }
     },
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Abraham Lundy",
             "email": "abraham.lundy.batasche@gmail.com"
         }
-    ],
-    "require": {}
+    ]
 }
